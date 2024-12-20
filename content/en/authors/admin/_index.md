@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 张立权
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhang Liquan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Liquan
+last_name: Zhang
 
 # Status emoji
 status:
@@ -20,92 +20,87 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Software Expert Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Shopee
+    url: https://shopee.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zhangliquan66@163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/zhangliquan01
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
   - Information Retrieval
+  - E-Commerce
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Master of Engineering Management(MEM)
+    institution: Shanghai Jiao Tong University
+    date_start: 2023-09-01
+    date_end: 2026-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 3.9/4.0
+      Courses included:
+      - Quantitative Analysis
+      - Engineering Economics
+      - Engineering Quality Management
+      - Human Resources and Communication Management
+      - Operations Management
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Software Engineering
+    institution: Tongji University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
+      GPA: 3.6/4.0
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Software Engineering
+      - C & C++ & Java Language
+      - Database
+      - Mobile & Web Application Development
+      - Linear & Advanced Algebra
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Software Expert Engineer
+    company_name: Shopee
+    company_url: https://shopee.cn/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-04-11
     date_end: ''
-    summary: |2-
+    summary: |2+
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Design and development of C-end search business engine, supporting business needs in multiple scenarios and forms such as commodities, advertisements, live broadcasts, and videos
+      - Design and development of C-end search recall engine, superimposing and optimizing search recall functions on the basis of existing ES/Vepsa
+      - Design and development of C-end search peripheral systems, such as AB experimental platform, traffic control system, and empowering search business
+  - position: Software Expert Engineer
+    company_name: Pinduoduo
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-05-01
+    date_end: 2022-02-28
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - C-end commercial recommendation scenario development, such as 10 billion subsidies, limited-time flash sales, my collection, etc.
+      - B-end advertising billing system development, such as promotion accounts, real-time billing, operation red envelope support, etc.
+  - position: Software Senior Engineer
+    company_name: Baidu
+    company_url: https://home.baidu.com/
+    company_logo: ''
+    date_start: 2017-04-01
+    date_end: 2020-04-30
+    summary: |
+      Responsibilities include:
+      - Service-oriented, connecting multiple testing and deployment capabilities within the company, creating APPCI and SERVERCI
+      - Platform-oriented, creating a plug-in center to support rapid plug-in changes, closed-loop problems and service governance
+      - Microservice transformation of the advertising experience platform to support automatic detection and evaluation of advertising experience
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -128,26 +123,24 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.

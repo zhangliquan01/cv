@@ -18,7 +18,7 @@ marketing:
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    baidu_tongji: '97c0b9dbcf7acf8d23617ef66f3d7a95'
     plausible: ''
     fathom: ''
     pirsch: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "张立权"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '©2024 Me. All rights reserved <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2024106239号-1</a>'
     license:
       enable: true
       allow_derivatives: false
@@ -58,3 +58,5 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+i_am_a_sponsor: true
